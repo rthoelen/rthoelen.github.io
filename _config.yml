@@ -101,9 +101,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Engineered Reflections # blog_name will be displayed in your blog page
+blog_name: My blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: random thoughts and ideas on science and/or Christianitys
 permalink: /blog/:year/:title/
 
 # Pagination
