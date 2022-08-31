@@ -12,5 +12,5 @@ NXCM is a project designed to link Kenwood and Icom repeaters across the Interne
 
 Source code for the project can be found at:
 
-* Kenwood - [https://github.com/rthoelen/NXCore_Kenwood|https://github.com/rthoelen/NXCore_Kenwood]
-* Icom - [https://github.com/rthoelen/NXCore_Icom|https://github.com/rthoelen/NXCore_Icom]
+* Kenwood - [https://github.com/rthoelen/NXCore_Kenwood](https://github.com/rthoelen/NXCore_Kenwood)
+* Icom - [https://github.com/rthoelen/NXCore_Icom](https://github.com/rthoelen/NXCore_Icom)
