@@ -3,8 +3,6 @@ layout: page
 permalink: /recommended-reading/
 title: readinglist
 description: These are some of the books I recommend on various subjects.
-nav: true
-nav_order: 4
 ---
 
 
