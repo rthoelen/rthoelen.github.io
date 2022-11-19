@@ -24,4 +24,5 @@ Prior to this, I have worked in aerospace developing and maintaining system mode
 
 My daily work involves troubleshooting and optimizing HPC workflows for maximum efficiency, working closely with engineering staff. I support a broad mix of COTS and custom HPC codes. My education in software engineering and experience in systems engineering gives me a unique perspective as a system administrator to dig deep into complex problems. I maintain membership in engineering societies to broaden my knowledge and develop my professional network.
 
-Find me on <a rel="me" href="https://noc.social/@rthoelen">Mastodon</a>
+Find me on [Mastodon](https://noc.social/@rthoelen){:target="_blank"}{:rel="me"}
+
