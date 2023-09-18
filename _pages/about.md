@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an HPC/Applications System Architect with over 4 years of supporting High Performance Computing systems for engineering and scientific computing in the aerospace industry. My HPC experience intersects Linux infrastructure support with application support.
+I am an HPC/Applications System Architect with over 5 years of supporting High Performance Computing systems for engineering and scientific computing in the aerospace industry. My HPC experience intersects Linux infrastructure support with application support.
 
 Prior to this, I have worked in aerospace developing and maintaining system models and real-time data acquisition systems for testing embedded software in engine control systems. I also worked several years testing embedded control systems for an air cycle machine and running a test lab dedicated to that purpose.
 
