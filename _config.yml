@@ -141,7 +141,6 @@ lsi: false # produce an index for related posts
 pagination:
   enabled: true
 
-<<<<<<< HEAD
 related_blog_posts:
   enabled: true
   max_related: 5
@@ -163,23 +162,17 @@ giscus:
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
-=======
-# Comments
-# disqus_shortname: al-folio # put your disqus shortname
->>>>>>> 4ababec (Update _config.yml)
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-<<<<<<< HEAD
+
+
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -189,11 +182,7 @@ newsletter:
   enabled: false
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
-=======
-#external_sources:
-#  - name: medium.com
-#    rss_url: https://medium.com/@al-folio/feed
->>>>>>> f117d5c5 (Update _config.yml)
+
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -324,28 +313,27 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 
 scholar:
+  last_name: Thoelen
+  first_name: [Robert, E.]
 
-  last_name: 
-  first_name: 
 
+  style: apa
+  locale: en
 
-#  style: apa
-#  locale: en
-
-#  source: /_bibliography/
-#  bibliography: papers.bib
-#  bibliography_template: bib
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-#  bibtex_filters: [latex, smallcaps, superscript]
+  bibtex_filters: [latex, smallcaps, superscript]
 
-#  replace_strings: true
-#  join_strings: true
+  replace_strings: true
+  join_strings: true
 
-#  details_dir: bibliography
-#  details_link: Details
 
+  details_dir: bibliography
+  details_link: Details
 
   query: "@*"
   group_by: year
