@@ -47,21 +47,12 @@ description: These are some of the books I recommend on various subjects.
 
 <br/>
 
-**Introduction to Algorithms, Second Edition**, Thomas H. Kormen
 
 **The Mythical Man-Month**, Fred Brooks
 
 **The Deadline: A Novel about Project Management**, Tom DeMarco
 
 **The Phoenix Project**, Gene Kim, Kevin Behr, George Spafford
-
-<br/>
-
-## Historical Fiction
-
-<br/>
-
-**A Madman Dreams of Turing Machines**, Janna Levin
 
 <br/>
 
@@ -76,10 +67,6 @@ description: These are some of the books I recommend on various subjects.
 **The Autobiography of Madame Guyon**, Jeanne Marie Bouvières de la Mothe Guyon
 
 **The Didache**
-
-**Tortured for Christ**, Richard Wurmbrand
-
-**Through Gates of Splendor**, Elizabeth Elliot
 
 **The Autobiography of George Muller**, George Muller
 
@@ -110,8 +97,6 @@ description: These are some of the books I recommend on various subjects.
 **Harmonice Mundi(The Harmony of the World) (1619)**, Johannes Kepler
 
 **Test of Faith(VIDEO), Various Contributors**, published by WIPF and Stock Publishers
-
-**Wise Stewards: Philosophical Foundations of Christian Parenting**, Michael W. Austin
 
 <br/>
 
